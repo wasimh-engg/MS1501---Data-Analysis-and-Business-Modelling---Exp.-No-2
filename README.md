@@ -151,8 +151,8 @@ Totalcholestrol   -0.078204
 currentsmoker     -0.082408
 Education         -0.086376
 Cigsperday        -0.096773
+<img width="1064" height="588" alt="Screenshot 2026-11-23 23 19 35" src="https://github.com/user-attachments/assets/2ccbc2b4-0038-4b1b-b9cd-fd6b4c1728c6" />
 
-<img width="2752" height="1536" alt="img 1" src="https://github.com/user-attachments/assets/5f668f60-3d4f-47c2-bec3-904600540b2d" />
 TenYearCHD class distribution:
 0    204   (81.6%)
 1     46   (18.4%)

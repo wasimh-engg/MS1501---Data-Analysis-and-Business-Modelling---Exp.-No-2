@@ -154,7 +154,7 @@ Cigsperday        -0.096773
 TenYearCHD class distribution:
 0    204   (81.6%)
 1     46   (18.4%)
-
+```
 <img width="1064" height="588" alt="Screenshot 2026-11-23 23 19 35" src="https://github.com/user-attachments/assets/2ccbc2b4-0038-4b1b-b9cd-fd6b4c1728c6" />
 
 ## Result
